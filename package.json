@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "dev": "NODE_ENV=DEVELOPEMENT nodemon server",
-    "prod": "NODE_ENV=PRODUCTION nodemon server"
+    "dev": "nodemon server"
   },
   "author": "",
   "license": "MIT",
